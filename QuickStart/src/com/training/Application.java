@@ -12,6 +12,8 @@ public class Application {
 		for(String eachItem: nameList) {
 			System.out.println(nameList);
 		}
+		Book java = new Book(109,"lotr");
+		System.out.println(java.getBookName);
 	}
 	
 	
