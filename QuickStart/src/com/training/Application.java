@@ -13,7 +13,7 @@ public class Application {
 			System.out.println(nameList);
 		}
 		Book java = new Book(109,"lotr");
-		System.out.println(java.getBookName);
+		System.out.println(java);
 	}
 	
 	
